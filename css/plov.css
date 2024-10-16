@@ -1,0 +1,30 @@
+header { 
+    background-color: #f5aa20 ; 
+    color: white; 
+    text-align: center; 
+    padding: 12px; 
+    border: 0px; 
+    border-radius: 15px; 
+  font-size: 15pt; 
+  font-family: Consolas; 
+} 
+body { 
+    text-align: center; 
+  margin: 15px auto; 
+  padding: 0; 
+  max-width: 800px; 
+} 
+figure { 
+    text-align: center; 
+} 
+figcaption { 
+    font-style: italic ; 
+} 
+main { 
+    font-family: Consolas; 
+    font-size: 12pt; 
+    line-height: 1.6; 
+    padding: 20px; 
+    text-align: center; 
+    box-shadow: 0 4px 8px black; 
+}
